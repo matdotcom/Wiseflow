@@ -16,4 +16,5 @@ Som indeholder studerende objekter som vi har lavet med variabler fra studerende
 ## -MineMetoder.java-
 Som indeholder nogle metoder som jeg selv har valgt, for at fremvise noget af det vi har lært. 
 
+#### Lavet af Mathias Bruun Hemmingsen, EASJ, DA17 1sem.
 #### God læsning András! 
